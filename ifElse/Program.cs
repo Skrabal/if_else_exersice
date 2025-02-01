@@ -10,9 +10,7 @@ namespace ifElse
     {
         static void Main(string[] args)
         {
-            //jfwej fwefhegws
-            //test
-            //test 1
+            
         }
     }
 }
