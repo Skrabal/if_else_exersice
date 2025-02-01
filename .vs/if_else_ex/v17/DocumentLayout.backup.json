@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\if_else_ex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\if_else_ex\\ifElse\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ifElse\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{334E6182-C12F-42A8-9724-C9102CD1F728}|ifElse\\ifElse.csproj|c:\\users\\dell\\source\\repos\\if_else_ex\\ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E6182-C12F-42A8-9724-C9102CD1F728}|ifElse\\ifElse.csproj|solutionrelative:ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "ifElse\\Program.cs",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\if_else_ex\\ifElse\\Program.cs",
               "RelativeToolTip": "ifElse\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T09:22:28.004Z",
               "EditorCaption": ""
